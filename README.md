@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B4965&height=200&section=header&text=Backend%20Developer%20Sejin&fontSize=40&fontColor=E0E1DD&fontAlignY=38&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Self-hosting&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3DDC97&center=true&vCenter=true&width=620&lines=Building+servers+that+are+easy+to+maintain;Automating+repetitive+work+with+code;Running+my+own+home+lab+server" alt="Typing SVG" /> </div> <br/>
+<!-- ============================================================ 사용 전 바꿔야 할 것 1) GitHub 아이디 → dandylsj 로 반영 완료 2) 연락처/블로그 링크 (TODO 표시된 곳) 3) 통계 카드는 공개 인스턴스 주소로 되어 있음. 홈랩에 셀프호스팅하면 github-readme-stats.vercel.app/api 부분을 본인 도메인으로 바꾸세요 (셀프호스팅은 경로에서 /api 빠짐 주의) ============================================================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:1B4965&height=200&section=header&text=Backend%20Developer%20Sejin&fontSize=40&fontColor=E0E1DD&fontAlignY=38&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Self-hosting&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3DDC97&center=true&vCenter=true&width=620&lines=Building+servers+that+are+easy+to+maintain;Automating+repetitive+work+with+code;Running+my+own+home+lab+server" alt="Typing SVG" /> </div> <br/>
 👋 About Me
 🏢 공공 SI에서 급경사지 조기경보 시스템의 서버 운영·유지보수를 맡고 있습니다.
 ⚙️ 반복 업무를 코드로 줄이는 걸 좋아합니다. 사내 점검 보고서 자동화 프로그램을 직접 만들었습니다.
@@ -18,7 +18,7 @@ Etc<br/> <img src="https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=for-
 <br/>
 🚀 Projects
 프로젝트	설명	핵심 경험
-Hatoo 📱	가사 분담 앱 · 백엔드 1인 개발 · Google Play 출시 [Google Play] (https://play.google.com/store/apps/details?id=com.rfive.hatoo&hl=ko)	JOIN FETCH로 N+1 해결 및 응답 속도 개선, Redis 분산 락, FCM 푸시, Self-hosted Runner 기반 CI/CD
+Hatoo 📱	가사 분담 앱 · 백엔드 1인 개발 · Google Play 출시	JOIN FETCH로 N+1 해결 및 응답 속도 개선, Redis 분산 락, FCM 푸시, Self-hosted Runner 기반 CI/CD
 Cookzini 🥗	냉장고 재료 관리 + AI 레시피 추천	ERD·구현 명세 설계부터 서버 배포까지
 LineOfDuty 🎖️	군 입대·굿즈 쇼핑 플랫폼	1인 리팩토링, GitHub Actions Self-hosted Runner 구성
 Home Lab 🖥️	개인 Ubuntu 서버 운영	AWS RDS → 자체 MySQL 이전, MinIO·Cloudflare Tunnel 구성, SSD 장애 진단 및 교체
