@@ -18,7 +18,7 @@ Etc<br/> <img src="https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=for-
 <br/>
 🚀 Projects
 프로젝트	설명	핵심 경험
-Hatoo 📱	가사 분담 앱 · 백엔드 1인 개발 · Google Play 출시 <!-- TODO: 플레이스토어 링크 -->	JOIN FETCH로 N+1 해결 및 응답 속도 개선, Redis 분산 락, FCM 푸시, Self-hosted Runner 기반 CI/CD
+Hatoo 📱	가사 분담 앱 · 백엔드 1인 개발 · Google Play 출시 [Google Play] (https://play.google.com/store/apps/details?id=com.rfive.hatoo&hl=ko)	JOIN FETCH로 N+1 해결 및 응답 속도 개선, Redis 분산 락, FCM 푸시, Self-hosted Runner 기반 CI/CD
 Cookzini 🥗	냉장고 재료 관리 + AI 레시피 추천	ERD·구현 명세 설계부터 서버 배포까지
 LineOfDuty 🎖️	군 입대·굿즈 쇼핑 플랫폼	1인 리팩토링, GitHub Actions Self-hosted Runner 구성
 Home Lab 🖥️	개인 Ubuntu 서버 운영	AWS RDS → 자체 MySQL 이전, MinIO·Cloudflare Tunnel 구성, SSD 장애 진단 및 교체
